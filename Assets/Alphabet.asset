@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cef6dea345f7fc8479ec7364d0fc30ad, type: 3}
+  m_Name: Alphabet
+  m_EditorClassIdentifier: 
+  _cards:
+  - {fileID: 11400000, guid: 69796efabdc8c42419761f547638b34b, type: 2}
+  - {fileID: 11400000, guid: 1304430e9505e244284cdc3bedbdc3c9, type: 2}
+  - {fileID: 11400000, guid: 4a3cfeec1c11f88479caa49a2a29df4a, type: 2}
+  - {fileID: 11400000, guid: 52e86bf0a21fa184b9a4ac642310ba9c, type: 2}
+  - {fileID: 11400000, guid: 673026035b3f033418388cee0342281a, type: 2}
+  - {fileID: 11400000, guid: cfd19a6c2c677344595c55ea3f2df5c7, type: 2}
+  - {fileID: 11400000, guid: a47138d9024769742b739a37859bb119, type: 2}
+  - {fileID: 11400000, guid: b4d63a99f2575154daa2be888293e7ae, type: 2}
+  - {fileID: 11400000, guid: 6e7fe06784dd630428e9b0f706502284, type: 2}
+  - {fileID: 11400000, guid: 2d88fad8f64991a45bbd0c5c6b70bbe7, type: 2}
+  - {fileID: 11400000, guid: 829e9381002fe4d4885b2364bb7f2ad2, type: 2}
+  - {fileID: 11400000, guid: 016ddd97ff66d3c47bc0ae4dcc2ce4d0, type: 2}
+  - {fileID: 11400000, guid: d38bce32332ae624493d1428a9a0df2d, type: 2}
+  - {fileID: 11400000, guid: 42dbc1fc2f527074bb81cff67de9bc9f, type: 2}
+  - {fileID: 11400000, guid: 3821a5ec17d38f8418793a409a500cee, type: 2}
+  - {fileID: 11400000, guid: cad0fe00541f5634c939c0455119d5fc, type: 2}
+  - {fileID: 11400000, guid: b9d984dfd5eaeaf48954a787c6e73166, type: 2}
+  - {fileID: 11400000, guid: fdb5517260701144495d0cb4547c5f50, type: 2}
+  - {fileID: 11400000, guid: 73dd1c47d72becc40a5378e365eb9d20, type: 2}
+  - {fileID: 11400000, guid: 2102f79b5deb56f4396b2afe3bec4311, type: 2}
+  - {fileID: 11400000, guid: f17da86dd6c012e46b4c7b1ff0b6fbc4, type: 2}
+  - {fileID: 11400000, guid: 57668b4a86c2aff4093ef26cfe414d19, type: 2}
+  - {fileID: 11400000, guid: c4a2e6bb794ddd94aa2e0eb1fe08aef1, type: 2}
+  - {fileID: 11400000, guid: 28ceee29472ddbb4baa315c1f0fe880f, type: 2}
+  - {fileID: 11400000, guid: fa5fac5df5a5ce5429bfa43d3382f60e, type: 2}
+  - {fileID: 11400000, guid: 01928d3ced351354485260f3721f94f0, type: 2}
